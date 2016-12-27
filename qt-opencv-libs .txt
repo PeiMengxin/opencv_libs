@@ -1,0 +1,18 @@
+LIBS    += -lopencv_highgui \
+            -lopencv_photo \
+            -lopencv_calib3d \
+            -lopencv_imgproc \
+            -lopencv_stitching \
+            -lopencv_contrib \
+            -lopencv_legacy \
+            -lopencv_superres \
+            -lopencv_core \
+            -lopencv_ml \
+            -lopencv_video \
+            -lopencv_features2d \
+            -lopencv_nonfree \
+            -lopencv_videostab \
+            -lopencv_flann \
+            -lopencv_objdetect \
+            -lopencv_gpu \
+            -lopencv_ocl
